@@ -1,4 +1,4 @@
 def func(X):
-    return x
+    return x * 20
 
 print(func("Hello World"))
